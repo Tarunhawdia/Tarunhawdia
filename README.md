@@ -22,11 +22,6 @@
   - 📚 M.Tech in Biomedical Science & Technology from IIT Guwahati
   - ⚡ Built projects across Machine Learning, Embedded Systems, and Full Stack Web Dev
 
-- 🚀 Currently building:
-  - A contact manager API with spam detection
-  - An AI-based health monitoring system
-  - A Wordle clone using the MERN stack
-
 ---
 
 ### 🛠️ Languages and Tools
