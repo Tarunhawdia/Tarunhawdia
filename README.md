@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m exploring **Backend Development, Embedded Systems, and Machine Learning**
+- 🌱 I’m exploring **Backend Development, Fullstack Development, and Machine Learning**
 
 - 👯 I’m looking to collaborate on **exciting open-source projects and startup ideas**
 
