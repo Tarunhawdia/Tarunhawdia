@@ -18,11 +18,11 @@
 - 🏆 Achievements:
   - 🥇 Gold Medalist in Chess at IIT Guwahati
   - 🧠 Solved 500+ DSA problems
-  - 📚 M.Tech in Biomedical Science & Technology from IIT Guwahati
+  - 📚 M.Tech from IIT Guwahati
   - ⚡ Built projects across Machine Learning, Embedded Systems, and Full Stack Web Dev
 
 ---
-
+e
 ### 🛠️ Languages and Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
