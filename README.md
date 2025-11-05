@@ -59,7 +59,7 @@ e
 
 ### 🎯 Currently Open To
 
-- 🚀 Remote Internships
+- 🚀 Remote Jobs/Full Time
 - 🧑‍💻 Startup Projects
 - 🛠️ Collaboration on Real-world Ideas
 
