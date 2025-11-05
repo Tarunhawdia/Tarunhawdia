@@ -19,7 +19,7 @@
   - 🥇 Gold Medalist in Chess at IIT Guwahati
   - 🧠 Solved 500+ DSA problems
   - 📚 M.Tech from IIT Guwahati
-  - ⚡ Built projects across Machine Learning, Embedded Systems, and Full Stack Web Dev
+  - ⚡ Built projects across Web Dev, Backend, Artificial Intelligence
 
 ---
 e
