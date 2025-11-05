@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **exciting open-source projects and startup ideas**
 
-- 💬 Ask me about **MERN Stack, Node.js, Machine Learning, Embedded Programming**
+- 💬 Ask me about **MERN Stack, Node.js, Machine Learning, Backend Devlopement, System Design**
 
 - 📫 How to reach me:
   - [LinkedIn](https://linkedin.com/in/tarunhawdia)
@@ -33,7 +33,6 @@ e
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
