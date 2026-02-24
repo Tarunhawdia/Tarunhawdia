@@ -24,9 +24,6 @@
 - 🔄 **[cp-github-sync](https://github.com/Tarunhawdia/cp-github-sync)** - Automatically sync your competitive programming solutions to GitHub
 - 🌐 **[myTorrent](https://github.com/Tarunhawdia/myTorrent)** - A bit torrent client in Go
 - 💬 **[Chat-app](https://github.com/Tarunhawdia/Chat-app)** - Full Stack Real-Time Chatting App using Socket.io and MongoDB
-- 🚗 **[cab_booking_application](https://github.com/Tarunhawdia/cab_booking_application)** - Low-level system design (LLD) for a concurrency-based matching engine
-- 📅 **[cp-calendar](https://github.com/Tarunhawdia/cp-calendar)** - Never Miss a Coding Contest Again! 
-- 📇 **[contact-manager-api](https://github.com/Tarunhawdia/contact-manager-api)** - Robust backend API for managing and authenticating contacts
 - 🔍 **[imageserach](https://github.com/Tarunhawdia/imageserach)** - Image search application utilizing the Unsplash API
 - ⌨️ **[terminal_typing_game](https://github.com/Tarunhawdia/terminal_typing_game)** - This is the terminal typing game in Go 
 
