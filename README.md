@@ -1,67 +1,39 @@
-<h1 align="center">Hi 👋, I'm Tarun Hawdia</h1>
+<div align="center">
+  <h1>Hi 👋, I'm Tarun Hawdia</h1>
+  <h3>Software Engineer | Backend & Full-Stack Developer | Architecting Solutions</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <p>
+    <a href="https://linkedin.com/in/tarunhawdia">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Tarunhawdia">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://x.com/HawdiaTarun">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working as a **Software Engineer**
+  <i>"Just a dumb coder trying to outwork the smart ones."</i> <br/><br/>
+</div>
 
-- 🌱 I’m exploring **Backend Development, Fullstack Development, and Machine Learning**
+<br/>
 
-- 👯 I’m looking to collaborate on **exciting open-source projects and startup ideas**
+## Current Projects
 
-- 💬 Ask me about **MERN Stack, Node.js, Machine Learning, Backend Devlopement, System Design**
+- 🔄 **[cp-github-sync](https://github.com/Tarunhawdia/cp-github-sync)** - Automatically sync your competitive programming solutions to GitHub
+- 🌐 **[myTorrent](https://github.com/Tarunhawdia/myTorrent)** - A bit torrent client in Go
+- 💬 **[Chat-app](https://github.com/Tarunhawdia/Chat-app)** - Full Stack Real-Time Chatting App using Socket.io and MongoDB
+- 🚗 **[cab_booking_application](https://github.com/Tarunhawdia/cab_booking_application)** - Low-level system design (LLD) for a concurrency-based matching engine
+- 📅 **[cp-calendar](https://github.com/Tarunhawdia/cp-calendar)** - Never Miss a Coding Contest Again! 
+- 📇 **[contact-manager-api](https://github.com/Tarunhawdia/contact-manager-api)** - Robust backend API for managing and authenticating contacts
+- 🔍 **[imageserach](https://github.com/Tarunhawdia/imageserach)** - Image search application utilizing the Unsplash API
+- ⌨️ **[terminal_typing_game](https://github.com/Tarunhawdia/terminal_typing_game)** - This is the terminal typing game in Go 
 
-- 📫 How to reach me:
-  - [LinkedIn](https://linkedin.com/in/tarunhawdia)
-  - [GitHub](https://github.com/Tarunhawdia)
-  - [Twitter](https://x.com/HawdiaTarun)
-
-- 🏆 Achievements:
-  - 🥇 Gold Medalist in Chess at IIT Guwahati
-  - 🧠 Solved 500+ DSA problems
-  - 📚 M.Tech from IIT Guwahati
-  - ⚡ Built projects across Web Dev, Backend, Artificial Intelligence
-
----
-e
-### 🛠️ Languages and Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<br/>
 
 ---
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarunhawdia&show_icons=true&theme=radical" alt="Tarun's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunhawdia&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunhawdia&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🧠 Motto
-
-> “Just a dumb coder trying to outwork the smart ones.”
-
----
-
-### 🎯 Currently Open To
-
-- 🚀 Remote Jobs/Full Time
-- 🧑‍💻 Startup Projects
-- 🛠️ Collaboration on Real-world Ideas
-
----
-
-*Thanks for visiting my profile! Let's build something amazing together.*
+<div align="center">
+  <b>🌟 Gold Medalist in Chess at IIT Guwahati  |  📚 M.Tech from IIT Guwahati  |  🧠 Solved 500+ DSA problems</b>
+</div>
