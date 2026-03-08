@@ -21,7 +21,7 @@
 
 ## Current Projects
 
-- 🔄 **[Android-notification-manager](https://github.com/Tarunhawdia/notification-manager)** - Block unnecessary Buzz from your phone
+- 👺 **[Android-notification-manager](https://github.com/Tarunhawdia/notification-manager)** - Block unnecessary Buzz from your phone
 - 🔄 **[cp-github-sync](https://github.com/Tarunhawdia/cp-github-sync)** - Automatically sync your competitive programming solutions to GitHub
 - 🌐 **[myTorrent](https://github.com/Tarunhawdia/myTorrent)** - A bit torrent client in Go
 - 💬 **[Chat-app](https://github.com/Tarunhawdia/Chat-app)** - Full Stack Real-Time Chatting App using Socket.io and MongoDB
